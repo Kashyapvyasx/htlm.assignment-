@@ -10,7 +10,7 @@ header, footer {
     background-color: darkorchid;
 }
 
-.site-title {
+.site-tittle {
     color: firebrick;
 }
 #my_simage{
@@ -24,4 +24,11 @@ header, footer {
 }
 ul{
     list-style: none;
+}
+a:link{
+        text-decoration: none;
+}
+a:hover{
+        background-color: deepskyblue;
+        text-decoration: none;
 }
