@@ -2,7 +2,7 @@
 
 body {
         background-color: pink;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-family: 'Gill Sans', 'Gill Sans MT','Times new', Times, serif, 'Trebuchet MS', sans-serif;
         font-size: 18px;
 }
 
@@ -19,8 +19,8 @@ header, footer {
 #ji{
     list-style-type: square;
 }
-#ji li :nth-child(odd){
-    background: red;
+#ji_li :nth-child(odd){
+    background: green;
 }
 ul{
     list-style: none;
